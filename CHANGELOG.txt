@@ -1,0 +1,7 @@
+0.0.1 - Initial Release
+
+0.0.3 - Minor bug fixes
+
+0.0.4 - Fixed some really silly binary issues, 
+        where I was using platform specific endian encoding.
+      - Added some more unit tests to make myself feel better.
